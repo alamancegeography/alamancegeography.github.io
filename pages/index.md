@@ -1,8 +1,11 @@
 ---
-title: IDAH Community Archiving Template
+title: Alamance Geography
 layout: homepage
 permalink: /
 ---
+
+The Alamance Geography repository compiles community resources and digital archiving of publicly accessible content and research about the historical geography of Alamance County, North Carolina. This is a project of the [Department of History & Geography at Elon University](https://www.elon.edu/u/academics/arts-and-sciences/history-geography/). 
+
 
 The Archiving Out of the Box team supports community storytelling with a  digital archiving and storytelling kit. This demo site has examples of 3 different kinds of community contributions: scanned/screencaptured documents, photos of objects, and vidoes.
 
