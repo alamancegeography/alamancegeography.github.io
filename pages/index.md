@@ -1,5 +1,5 @@
 ---
-title: Alamance Geography
+title: Alamance Geography Community Archive
 layout: homepage
 permalink: /
 ---
