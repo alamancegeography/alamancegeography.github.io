@@ -1,18 +1,19 @@
 ---
 layout: item
 format: document
-title: "ACLS Digital Justice Development Grant"
-author: "DigitalArc Platform Team"
-contributor: "DigitalArc Platform Team"
+title: "Burlington's Black Bottom District"
+author: "AACAHC & Elon Department of History & Geography"
+contributor: ""
 group: "IUB-OC"
-creator: "DigitalArc Platform Team"
-externalurl: https://www.acls.org/recent-fellows/?program_id=40090&_project_year=2024
+creator: "Ryan Kirk"
+externalurl: https://storymaps.arcgis.com/stories/73503f35c385414ea0e3511efb401169
 embedurl: 
-creationdate: 2024-05-22
+creationdate: 2026-03-03
 type: "website"
-shortdesc: "This is an example of how to include a document (scanned or screencaptured). The development of the DigitalArc Toolkit was funded by an ACLS Digital Social Justice grant in 2024."
-categories: [ News Articles, Web Pages ]
+shortdesc: "Elon student Lucy Garcia ('23) completed an Honors Thesis researching the Black Bottom District in Downtown Burlington. This StoryMap tells thatis story."
+categories: [ Burlington ]
 tags: [  ]
 teammember: 
 ---
+
 
